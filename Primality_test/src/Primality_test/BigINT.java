@@ -19,6 +19,7 @@ public class BigINT {
         BigInteger bi = new BigInteger(n);
 
         System.out.println(bi.isProbablePrime(1)?"prime":"not prime");
+     System.out.println("Program is done !!!");
         scanner.close();
     }
 }
